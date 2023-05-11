@@ -1,5 +1,5 @@
 # 💫 About Me:
-Web developer // UX designer
+Developer // UX designer
 
 
 ## 🌐 Socials:
